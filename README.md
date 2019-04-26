@@ -16,4 +16,4 @@ I suggest you go and see what's on the subject describe in youtube channel 3brow
 which explains very clearly all the stuff you need to build your first neural network, starting from nowhere.
 Hope this material will help newbees.
 
-Have fun, and make of this material a better thing for the community, share itn and propose enhanced version.
+Have fun, and make of this material a better thing for the community, share it and propose enhanced version.
