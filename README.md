@@ -6,7 +6,7 @@ Here we just took relu activation function instead of the sigmoid, for obvious r
 We also take care the derivative of the error in respect with the bias weights that influence also the total cost.
 
 I know the code is not optimzed, and I should use matrix calculation approch to get rid of all this mess of floats I use.
-Be kind enough, I'm working on a much more optimized version, which should not take long. A metter of time and interest.
+Be kind enough, I'm working on a much more optimized version, which should not take long. A matter of time and interest.
 
 Anyway, the aim is to propose a starting kit from nothing, well at least from what I've learned.
 
